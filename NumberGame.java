@@ -10,7 +10,7 @@ public class NumberGame{
    
 
    int tryCount = 0; // To check
-
+System.out.println("!!!!GuessQuest!!!!");
 System.out.println("Hi There!! I Welcome you to Play Number Guessing Game!!!!");
 System.out.println("Check How Smart you are in Guessing!");
   while(true){
